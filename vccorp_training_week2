@@ -1,0 +1,11 @@
+resource:
+maven: https://maven.apache.org/guides/introduction/introduction-to-dependency-mechanism.html
+Timer vs sleep: https://stackoverflow.com/questions/1453295/timer-timertask-versus-thread-sleep-in-java
+Logback: https://www.baeldung.com/logback
+Jsoup: https://jsoup.org/cookbook/extracting-data/working-with-urls
+Linux service: https://medium.com/@sulmansarwar/run-your-java-application-as-a-service-on-ubuntu-544531bd6102
+Spark java: http://sparkjava.com/
+Guava cache: https://www.baeldung.com/guava-cache
+Linux watch command: https://www.howtoforge.com/linux-watch-command/
+Build image docker: https://docs.docker.com/get-started/part2/#tag-the-image
+ssh-key: https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-1604
