@@ -1,5 +1,6 @@
 resource:
 maven: https://maven.apache.org/guides/introduction/introduction-to-dependency-mechanism.html
+read json from url: https://stackoverflow.com/questions/4308554/simplest-way-to-read-json-from-a-url-in-java
 Timer vs sleep: https://stackoverflow.com/questions/1453295/timer-timertask-versus-thread-sleep-in-java
 Logback: https://www.baeldung.com/logback
 Jsoup: https://jsoup.org/cookbook/extracting-data/working-with-urls
