@@ -1,0 +1,15 @@
+<configuration scan="true">
+
+    <appender name="FILE" class="ch.qos.logback.core.FileAppender">
+        <file>bai1</file>
+        <append>true</append>
+        <encoder>
+            <pattern>%d{HH:mm:ss.SSS} %-5level - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+
+    <root>
+        <appender-ref ref="FILE" />
+    </root>
+</configuration>
