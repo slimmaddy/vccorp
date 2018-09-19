@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ebcb022-27e6-409c-ba57-f87047458808" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20180813.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/app/JsonReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/app/ReadLogfile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/app/WriteLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my-app1/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my-app1/.idea/libraries/Maven__org_jsoup_jsoup_1_11_3.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../1.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../vccorp_training_week2" beforeDir="false" afterPath="$PROJECT_DIR$/../../vccorp_training_week2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mycompany/app/App$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mycompany/app/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mycompany/app/JsonReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mycompany/app/ReadLogfile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mycompany/app/WriteLog.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,13 +21,14 @@
     <session id="-1219260976">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -75,7 +71,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/app/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
+            <state relative-caret-position="375">
               <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -96,7 +92,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
+            <state relative-caret-position="150">
               <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
             </state>
           </provider>
@@ -105,7 +101,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/app/JsonReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
+            <state relative-caret-position="360">
               <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -117,7 +113,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/app/ReadLogfile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-166">
+            <state relative-caret-position="75">
               <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -134,7 +130,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/net/URLClassLoader.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1665">
+            <state relative-caret-position="2415">
               <caret line="202" column="24" selection-start-line="202" selection-start-column="24" selection-end-line="202" selection-end-column="24" />
             </state>
           </provider>
@@ -225,6 +221,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
@@ -271,7 +268,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -345,8 +341,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26136363" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2659091" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -399,33 +396,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LOG_DIR_IS_UNDEFINEDbai1" />
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/sun/misc/Launcher.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3300">
-          <caret line="255" selection-start-line="255" selection-end-line="255" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/app/JsonReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/app/ReadLogfile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-166">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bai1">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -435,8 +405,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/app/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="375">
           <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/app/JsonReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/app/ReadLogfile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -448,22 +452,15 @@
     </entry>
     <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/net/URLClassLoader.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1665">
+        <state relative-caret-position="2415">
           <caret line="202" column="24" selection-start-line="202" selection-start-column="24" selection-end-line="202" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/sun/misc/Launcher.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        <state relative-caret-position="3300">
+          <caret line="255" selection-start-line="255" selection-end-line="255" />
         </state>
       </provider>
     </entry>
